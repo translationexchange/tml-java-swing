@@ -37,11 +37,11 @@ To see the Swing SDK in action, try out the following examples:
 Where can I get more information?
 ==================
 
-* Register on Tr8nHub.com: https://tr8nhub.com/
+* Register on Tr8nHub.com: https://tr8nhub.com
 
-* Read Tr8nHub's documentation: http://wiki.tr8nhub.com/
+* Read Tr8nHub's documentation: http://wiki.tr8nhub.com
 
-* Visit Tr8nHub's blog: http://blog.tr8nhub.com/
+* Visit Tr8nHub's blog: http://blog.tr8nhub.com
 
 * Follow Tr8nHub on Twitter: https://twitter.com/Tr8nHub
 
