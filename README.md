@@ -27,6 +27,14 @@ Add the following dependency to your pom.xml:
 </dependency>
 ```
 
+Samples
+==================
+
+To see the Swing SDK in action, try out the following examples:
+
+* Tr8n Swing Samples: [tr8n_swing_samples](https://github.com/tr8n/tr8n_swing_samples)
+
+
 
 Where can I get more information?
 ==================
