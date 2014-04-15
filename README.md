@@ -12,4 +12,29 @@ Tr8n Client SDK for Java Swing
 If you are planning on building a desktop application using Java Swing framework, this library will provide you with tools and extensions to get it done quicker and better.
 
 
+Installation
+==================
 
+If you are using Maven:
+
+Add the following dependency to your pom.xml:
+
+```xml
+<dependency>
+  <groupId>com.tr8nhub</groupId>
+  <artifactId>swing-clientsdk</artifactId>
+  <version>0.1.0</version>
+</dependency>
+```
+
+
+Where can I get more information?
+==================
+
+* Visit Tr8nHub's documentation: http://wiki.tr8nhub.com/
+
+* Follow Tr8nHub on Twitter: https://twitter.com/Tr8nHub
+
+* Connect with Tr8nHub on Facebook: https://www.facebook.com/pages/tr8nhubcom/138407706218622
+
+* If you have any questions, contact: michael@tr8nhub.com

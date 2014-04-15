@@ -2,12 +2,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>tr8n</groupId>
-	<artifactId>tr8n_swing_clientsdk</artifactId>
+	<groupId>com.tr8nhub</groupId>
+	<artifactId>swing-clientsdk</artifactId>
 	<version>0.1.0</version>
 	<packaging>jar</packaging>
 
-	<name>tr8n_swing_clientsdk</name>
+	<name>tr8n-swing-clientsdk</name>
 	<url>https://github.com/tr8n/tr8n_swing_clientsdk</url>
 	<inceptionYear>2014</inceptionYear>
 
@@ -55,8 +55,8 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>tr8n</groupId>
-			<artifactId>tr8n_core</artifactId>
+			<groupId>com.tr8nhub</groupId>
+			<artifactId>core</artifactId>
 			<version>0.1.0</version>
 		</dependency>
     <dependency>
