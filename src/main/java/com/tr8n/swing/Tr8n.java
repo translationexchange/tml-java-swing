@@ -23,10 +23,8 @@
 package com.tr8n.swing;
 
 import java.text.AttributedString;
-import java.util.Locale;
 import java.util.Map;
 
-import com.tr8n.core.Language;
 import com.tr8n.core.TranslationKey;
 import com.tr8n.swing.tokenizers.AttributedStringTokenizer;
 
