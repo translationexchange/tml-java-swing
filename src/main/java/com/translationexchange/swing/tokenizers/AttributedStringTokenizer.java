@@ -20,7 +20,7 @@
  *  THE SOFTWARE.
  */
 
-package com.tr8n.swing.tokenizers;
+package com.translationexchange.swing.tokenizers;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -30,7 +30,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-import com.tr8n.core.tokenizers.StyledTokenizer;
+import com.translationexchange.core.tokenizers.StyledTokenizer;
 
 public class AttributedStringTokenizer extends StyledTokenizer {
 

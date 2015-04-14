@@ -20,19 +20,19 @@
  *  THE SOFTWARE.
  */
 
-package com.tr8n.swing;
+package com.translationexchange.swing;
 
 import java.text.AttributedString;
 import java.util.Map;
 
-import com.tr8n.core.TranslationKey;
-import com.tr8n.swing.tokenizers.AttributedStringTokenizer;
+import com.translationexchange.core.TranslationKey;
+import com.translationexchange.swing.tokenizers.AttributedStringTokenizer;
 
-public class Tr8n extends com.tr8n.core.Tr8n {
+public class Tml extends com.translationexchange.core.Tml {
 
 	public static void init(String key, String secret, String host) {
-		com.tr8n.core.Tr8n.init(key, secret, host);
-		com.tr8n.core.Tr8n.getConfig().addTokenizerClass(
+		com.translationexchange.core.Tml.init(key, secret, host);
+		com.translationexchange.core.Tml.getConfig().addTokenizerClass(
 				TranslationKey.DEFAULT_TOKENIZERS_STYLED,
 				AttributedStringTokenizer.class.getName());
 

@@ -1,10 +1,11 @@
-package com.tr8n.swing.tokenizers;
+package com.translationexchange.swing.tokenizers;
 
 import java.util.Arrays;
 
 import junit.framework.Assert;
 
-import com.tr8n.core.Utils;
+import com.translationexchange.core.Utils;
+import com.translationexchange.swing.tokenizers.AttributedStringTokenizer;
 
 public class AttributedStringTokenizerTest {
     
