@@ -35,12 +35,14 @@ import java.text.AttributedString;
 import java.util.Map;
 
 import com.translationexchange.core.TranslationKey;
+import com.translationexchange.core.Utils;
 import com.translationexchange.swing.tokenizers.AttributedStringTokenizer;
 
 public class Tml extends com.translationexchange.core.Tml {
 
-	public static void init(String key, String secret, String host) {
-		com.translationexchange.core.Tml.init(key, secret, host);
+	public static void init(String key, String token, String host) {
+		com.translationexchange.core.Tml.init(key, token, Utils.buildMap("host", host));
+		
 		com.translationexchange.core.Tml.getConfig().addTokenizerClass(
 				TranslationKey.DEFAULT_TOKENIZERS_STYLED,
 				AttributedStringTokenizer.class.getName());
