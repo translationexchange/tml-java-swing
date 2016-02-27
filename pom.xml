@@ -1,5 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.translationexchange</groupId>
@@ -47,7 +46,7 @@
 		<connection>scm:git:git://github.com/translationexchange/tml-swing.git</connection>
 		<developerConnection>scm:git:git://github.com/translationexchange/tml-swing.git</developerConnection>
 		<url>scm:git:https://github.com/translationexchange/tml-swing</url>
-		<tag>tml-java-swing-0.2.1</tag>
+		<tag>tml-swing-0.2.1</tag>
 	</scm>
 
 	<properties>
